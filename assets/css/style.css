@@ -219,7 +219,6 @@ img {
 .sidebar__item-4:hover .sidebar__sub-menu-4,
 .sidebar__item-5:hover .sidebar__sub-menu-5 {
   display: block;
-  float: right;
   color: #757575;
 }
 
