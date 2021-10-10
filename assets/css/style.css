@@ -115,7 +115,7 @@ img {
   justify-content: center;
   align-items: center;
   background-color: #f57224;
- cursor: pointer;
+  cursor: pointer;
 }
 .navbar__search-btn > i {
   font-size: 20px;
@@ -140,7 +140,6 @@ img {
 .navbar__banner img {
   width: 100%;
   cursor: pointer;
-
 }
 /* content */
 .content {
@@ -193,14 +192,14 @@ img {
   margin-right: 10px;
 }
 .sidebar__item-1:hover,
-.sidebar__item-1:hover .sidebar__icon,
 .sidebar__item-2:hover,
-.sidebar__item-2:hover .sidebar__icon,
 .sidebar__item-3:hover,
-.sidebar__item-3:hover .sidebar__icon,
 .sidebar__item-4:hover,
-.sidebar__item-4:hover .sidebar__icon,
 .sidebar__item-5:hover,
+.sidebar__item-1:hover .sidebar__icon,
+.sidebar__item-2:hover .sidebar__icon,
+.sidebar__item-3:hover .sidebar__icon,
+.sidebar__item-4:hover .sidebar__icon,
 .sidebar__item-5:hover .sidebar__icon {
   color: #f57224;
   cursor: pointer;
@@ -239,7 +238,6 @@ img {
 }
 .content__slider-image {
   height: 344px;
-
 }
 
 /* content__banner */
