@@ -34,6 +34,9 @@ img {
   background-color: #003399;
   width: 100%;
 }
+.header__banner >img{
+  cursor: pointer;
+}
 .header__banner > img,
 .header__menu {
   width: 1188px;
