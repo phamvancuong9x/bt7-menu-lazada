@@ -27,7 +27,6 @@ img {
 }
 /* header */
 .header {
-  /* text-align: center; */
 }
 
 .header__banner {
@@ -153,7 +152,6 @@ img {
   display: flex;
   margin: auto;
   width: 1188px;
-  /* background-color: var(--white); */
 }
 /* sidebar */
 .content__sidebar {
@@ -239,11 +237,6 @@ img {
 .content__slider-image {
   height: 344px;
 }
-
-/* content__banner */
-/* .content__banner > img {
-
-} */
 /* footer */
 .footer {
 }
